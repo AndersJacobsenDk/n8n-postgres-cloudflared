@@ -33,6 +33,14 @@ Key properties:
 - A Cloudflare Tunnel created (you will paste the tunnel token)
 
 ---
+## Policy / Safety
+- Read-only usage
+- No posting/commenting/voting/messaging/mod actions
+- Low frequency, rate-limited, small scope
+- No redistribution / private use only
+- No scraping (API only)
+---
+
 
 ## Quick start
 
