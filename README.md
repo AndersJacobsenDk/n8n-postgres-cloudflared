@@ -34,6 +34,9 @@ Key properties:
 
 ---
 ## Policy / Safety
+
+When used with Reddit API
+
 - Read-only usage
 - No posting/commenting/voting/messaging/mod actions
 - Low frequency, rate-limited, small scope
